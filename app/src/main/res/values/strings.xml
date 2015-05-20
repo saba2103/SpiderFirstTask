@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FirstTask</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="done_by">Done by Saba</string>
+    <string name="exit_button">Exit</string>
+    <string name="click_button">Click Me!</string>
+    <string name="Reset">Reset</string>
+</resources>
